@@ -43,8 +43,8 @@ Simple: flag low-trust rows, review those plus a small random sample each week. 
 
 ## What's In This Submission
 
-- **`opportunity_trust_audit.ipynb`**: The analysis notebook (reproducible, runnable, commented)
-- **`Voxel_Non_Safety_Signals.pptx`**: A 5-slide deck with charts, key findings, and recommendations
+- **`voxel_tanaymittal.ipynb`**: The analysis notebook (reproducible, runnable, commented)
+- **`tanay_mittal_voxel.pptx`**: A 5-slide deck with charts, key findings, and recommendations
 - **`clean_non_safety_theme_rank.csv`**: Ranked themes after cleaning
 - **`nonsafety_trust_audit_rows.csv`**: Full audit data with all flags and scores
 - **`manual_fidelity_sample.csv`**: 60 rows sampled for manual review (template ready)
